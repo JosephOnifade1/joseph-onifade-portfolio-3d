@@ -9,10 +9,16 @@ const skillCategories = [
     skills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "GSAP"],
   },
   {
-    title: "3D Development",
+    title: "3D Web Development",
     icon: Box,
     color: "secondary",
-    skills: ["Three.js", "React Three Fiber", "WebGL", "Blender", "Spline"],
+    skills: ["Three.js", "React Three Fiber", "WebGL", "GSAP", "Spline"],
+  },
+  {
+    title: "3D Software & Production",
+    icon: Box,
+    color: "primary",
+    skills: ["Blender", "Substance Painter", "ZBrush", "Maya", "Cinema 4D"],
   },
   {
     title: "UI/UX Design",
@@ -27,10 +33,10 @@ const skillCategories = [
     skills: ["Optimization", "Code Splitting", "Lazy Loading", "Web Vitals", "SEO"],
   },
   {
-    title: "Creative Tech",
+    title: "Game Assets & Production",
     icon: Sparkles,
-    color: "primary",
-    skills: ["Animation", "Shaders", "Particles", "Physics", "Interactive Art"],
+    color: "secondary",
+    skills: ["3D Modeling", "Texturing", "UV Mapping", "PBR Materials", "Asset Optimization"],
   },
   {
     title: "Web Tech",

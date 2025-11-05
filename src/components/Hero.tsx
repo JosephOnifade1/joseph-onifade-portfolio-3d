@@ -44,10 +44,11 @@ export const Hero = () => {
           Hi, I'm <span className="text-gradient-gold">Joseph Onifade</span>
         </h1>
         <h2 className="text-2xl md:text-3xl font-poppins font-semibold mb-4">
-          Frontend & <span className="text-gradient-cyan">3D Developer</span>
+          Frontend & <span className="text-gradient-cyan">3D Developer</span> | Blender Artist
         </h2>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
-          I build visually stunning, high-performance digital experiences using code and creativity.
+          I create immersive web experiences, game assets, and 3D product visualizations 
+          that blend technical excellence with artistic vision.
         </p>
         
         <div className="flex gap-4 justify-center mb-16">
